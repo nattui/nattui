@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently work at Adobe as Web Engineering Intern
+- 🌱 I’m always learning web development
+- 📫 How to reach me: https://www.linkedin.com/in/nattwasm/
+- ⚡ Fun fact: I'm ambidextrous
+
 <!--
 **nattwasm/nattwasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
