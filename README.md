@@ -1,8 +1,10 @@
+![Nhat Nguyen's NextJS Conf Ticket](https://i.imgur.com/UW3fCdZ.png)
+
 ### Hi there 👋
 
-- 🔭 I’m currently work at Adobe as Web Engineering Intern
+- 🔭 I’m currently building NPath ([https://npath.io](https://npath.io))
 - 🌱 I’m always learning web development
-- 📫 How to reach me: https://www.linkedin.com/in/nattwasm/
+- 📫 How to reach me: [https://www.linkedin.com/in/nattwasm/](https://www.linkedin.com/in/nattwasm/)
 - ⚡ Fun fact: I'm ambidextrous
 
 <!--
