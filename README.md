@@ -3,10 +3,11 @@
 
 Links (Web2 & Web3)
 
-- Website: [natt.xyz](http://natt.xyz)
-- GitHub: [nattwasm](https://github.com/nattwasm)
-- Twitter: [nattwasm](https://twitter.com/nattwasm)
-- LinkedIn: [nattwasm](https://www.linkedin.com/in/nattwasm)
-- Dribbble: [nattwasm](https://dribbble.com/nattwasm)
-- ENS: natt.eth
-- LENS: nattwasm.lens
+| Web2                                                       | Web3                |
+| ---------------------------------------------------------- | ------------------- |
+| Website: [natt.xyz](http://natt.xyz)                       | ENS: natt.eth       |
+| GitHub: [nattwasm](https://github.com/nattwasm)            | LENS: nattwasm.lens |
+| Twitter: [nattwasm](https://twitter.com/nattwasm)          |                     |
+| LinkedIn: [nattwasm](https://www.linkedin.com/in/nattwasm) |                     |
+| GitHub: [nattwasm](https://github.com/nattwasm)            |                     |
+| Dribbble: [nattwasm](https://dribbble.com/nattwasm)        |                     |
