@@ -1,11 +1,8 @@
-![Banner](./src/banner_light.svg#gh-light-mode-only)
-![Banner](./src/banner_dark.svg#gh-dark-mode-only)
+![Thumbnail](./src/thumbnail.svg)
 
-## Links
-
-| Web1                                           | Web2                                                       | Web3                                                            |
-| ---------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------- |
-| Portfolio: [natt.xyz](http://natt.xyz)         | GitHub: [nattwasm](https://github.com/nattwasm)            | Blue Sky: [natt.xyz](https://staging.bsky.app/profile/natt.xyz) |
-| Blog: [natt.xyz/blog](http://natt.xyz/blog)    | Twitter: [nattwasm](https://twitter.com/nattwasm)          | ENS: [natt.eth](https://natt.eth.co)                            |
-| About: [natt.xyz/about](http://natt.xyz/about) | LinkedIn: [nattwasm](https://www.linkedin.com/in/nattwasm) | LENS: [nattwasm.lens](https://lenster.xyz/u/nattwasm)           |
-|                                                | Dribbble: [nattwasm](https://dribbble.com/nattwasm)        | Farcaster: [natt](https://warpcast.com/natt)                    |
+| Website                                      | Social                                                     | Web3                                                  |
+| -------------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------------- |
+| Portfolio: [natt.sh](http://natt.sh)         | GitHub: [nattwasm](https://github.com/nattwasm)            | Blue Sky: [natt.sh](https://bsky.app/profile/natt.sh) |
+| Blog: [natt.sh/blog](http://natt.sh/blog)    | Twitter: [nattwasm](https://twitter.com/nattwasm)          | Ens: [natt.eth](https://natt.eth.co)                  |
+| About: [natt.sh/about](http://natt.sh/about) | LinkedIn: [nattwasm](https://www.linkedin.com/in/nattwasm) | Lens: [nattwasm.lens](https://lenster.xyz/u/nattwasm) |
+| RSS: [natt.sh/rss](http://natt.sh/rss.xml)   | Dribbble: [nattwasm](https://dribbble.com/nattwasm)        | Farcaster: [natt](https://warpcast.com/natt)          |
