@@ -6,7 +6,7 @@
   </a>
 </p>
 
-## Recommend repos to watch (friends)
+## Recommend repos to watch (for friends)
 
 - My setup and config notes: https://github.com/nattui/config-and-setup-notes
 - My react components library: https://github.com/nattui/react-components
