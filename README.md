@@ -11,17 +11,20 @@
 // bun add @nattui/tailwind-colors
 // bun add @nattui/tailwind-exact
 
+// global.css
 @import "tailwindcss";
 @import "@nattui/tailwind-colors";
 @import "@nattui/tailwind-exact";
 
+// component.tsx
 import { Button, Input, Label } from "@nattui/react-components"
 
-<Label className="mb-2 inline-block w-fit text-14" htmlFor="email">
+<Label className="mb-2" htmlFor="email">
   Email
 </Label>
 <Input
-  className="mb-16 h-36 border border-amber-100 border-solid px-4"
+  autoComplete="email"
+  className="mb-16"
   id="email"
   isRequired
   name="email"
