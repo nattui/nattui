@@ -7,9 +7,9 @@
 </p>
 
 ```jsx
-// bun add @nattui/colors
 // bun add @nattui/react-components
-// bun add @nattui/tailwind-one
+// bun add @nattui/tailwind-colors
+// bun add @nattui/tailwind-exact
 
 @import "tailwindcss";
 @import "@nattui/tailwind-colors";
