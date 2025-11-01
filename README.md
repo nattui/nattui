@@ -6,8 +6,30 @@
   </a>
 </p>
 
-## Recommend repos to watch (for friends)
+```jsx
+// bun add @nattui/colors
+// bun add @nattui/react-components
+// bun add @nattui/tailwind-one
+
+@import "tailwindcss";
+@import "@nattui/tailwind-colors";
+@import "@nattui/tailwind-exact";
+
+import { Button, Input, Label } from "@nattui/react-components"
+
+<Label className="mb-2 inline-block w-fit text-14" htmlFor="email">
+  Email
+</Label>
+<Input
+  className="mb-16 h-36 border border-amber-100 border-solid px-4"
+  id="email"
+  isRequired
+  name="email"
+  type="email"
+/>
+<Button type="submit">
+  Sign in
+</Button>
+```
 
 - [config-and-setup-notes](https://github.com/nattui/config-and-setup-notes)
-- [react-components](https://github.com/nattui/react-components)
-- [tailwind-tokenless](https://github.com/nattui/tailwind-tokenless)
